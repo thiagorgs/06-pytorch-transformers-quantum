@@ -2,7 +2,7 @@
 
 A demonstration of transfer learning and generative AI applied to quantum physics domain. This project fine-tunes OpenAI's GPT-2 language model on quantum physics text to generate coherent, domain-specific passages. It bridges domain expertise in quantum information and computation with modern deep learning practices.
 
-**Author:** Thiago Girao - PhD candidate in Physics, researching quantum information and computation
+**Author:** Thiago Girao - PhD candidate in Physics, researching quantum information and quantum computing
 
 ---
 
@@ -330,9 +330,9 @@ Fine-tuned perplexity typically improves by **15-30%** on quantum physics text c
 ## Contact & Attribution
 
 **Author**: Thiago Girao
-**Email**: [your-email@example.com]
+**Email**: [thiagorgs@id.uff.br]
 **Research Focus**: Quantum information theory, quantum algorithms, quantum machine learning
-**PhD Program**: Physics (Quantum Information & Computation)
+**PhD Program**: Physics (Quantum Information & Quantum Computing)
 
 ---
 
